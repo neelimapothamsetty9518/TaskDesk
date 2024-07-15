@@ -1,0 +1,6 @@
+@TravelDeskWebapi_HostAddress = http://localhost:5274
+
+GET {{TravelDeskWebapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
